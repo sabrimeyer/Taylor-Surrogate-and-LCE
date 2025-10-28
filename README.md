@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the code and notebooks accompanying the academic paper:
+This repository contains the code and notebooks accompanying the academic paper ([arXiv:2507.06344](URL "https://arxiv.org/abs/2507.06344")):
 
 **Trainability of Quantum Models Beyond Known Classical Simulability**  
 <u>Sabri Meyer</u>¹, Francesco Scala¹, Francesco Tacchino², and Aurelien Lucchi¹  <br>
