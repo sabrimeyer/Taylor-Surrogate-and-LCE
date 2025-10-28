@@ -1,4 +1,4 @@
-# Linear Clifford Encoder (LCE) and Taylor Surrogate Repository
+# Taylor Surrogate Repository and Linear Clifford Encoder (LCE)
 
 ## Overview
 
